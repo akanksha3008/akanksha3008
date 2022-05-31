@@ -12,9 +12,12 @@
 * NLP & ML
 
 <h3 align="left">Connect with me:</h3>
+
+[<img src="https://img.shields.io/badge/Stack%20Overflow-282C34?logo=stackoverflow&logoColor=FE7A16" alt="Stack Overflow logo" title="Stack Overflow" height="25"/>](https://stackoverflow.com/users/akanksha_p)
+&nbsp;
+[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://linkedin.com/in/akanksha-pardeshi-7a243115a)
+
 <p align="left">
-<a href="https://linkedin.com/in/akanksha-pardeshi-7a243115a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akanksha-pardeshi-7a243115a" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/akanksha_p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="akanksha_p" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/akanksha_p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="akanksha_p" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/akankshap38" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akankshap38" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@akanksha284" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@akanksha284" height="30" width="40" /></a>
