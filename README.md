@@ -18,10 +18,8 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://linkedin.com/in/akanksha-pardeshi-7a243115a)
 
-<p align="left">
-<a href="https://www.hackerrank.com/akanksha_p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="akanksha_p" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/akankshap38" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akankshap38" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@akanksha284" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@akanksha284" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/akanksha_p" target="blank"><img align="center" src="https://img.shields.io/badge/Hackerrank-282C34?logo=hackerrank&logoColor=FE7A16" alt="akanksha_p" height="25" /></a>
+<a href="https://www.hackerearth.com/@akanksha284" target="blank"><img align="center" src="https://img.shields.io/badge/Hackerearth-282C34?logo=hackerearth&logoColor=FE7A16" alt="@akanksha284" height="25" /></a>
 </p>
 
 ## Skill Set :muscle:
@@ -53,7 +51,7 @@ These are some of the major technologies that I use or have worked on in the pas
 <a href="https://stackexchange.com/users/14021967"><img src="https://stackexchange.com/users/flair/14021967.png" width="208" height="58" alt="profile for Akanksha_p on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Akanksha_p on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 ### Hackerrank Badges
-![](https://github.com/akanksha3008/akanksha3008/blob/main/Hackerrank.PNG)
+![](https://github.com/akanksha3008/akanksha3008/blob/main/HackerrankBadges.PNG)
 
 <!---
 akanksha3008/akanksha3008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
